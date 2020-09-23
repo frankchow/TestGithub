@@ -1,7 +1,3 @@
 This is first line.
 This is second line.
-<<<<<<< HEAD
-This is third line. 9fixed by hotfix)
-=======
 This is third line.  (fixed by hotfix)
->>>>>>> hotfix
