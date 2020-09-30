@@ -1,5 +1,9 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 This is first line. (fixed by iss53)
+=======
+This is first line. (updated by branch-c)
+>>>>>>> branch-c
 This is second line.
 This is third line.
 =======
