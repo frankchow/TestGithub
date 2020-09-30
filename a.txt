@@ -1,13 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-This is first line. (fixed by iss53)
-=======
-This is first line. (updated by branch-c)
->>>>>>> branch-c
+This is first line.  (updated by master)
 This is second line.
 This is third line.
-=======
-This is first line. (updatd by master)
-This is second line. (updatd by master)
-This is third line. (updatd by master)
->>>>>>> 5a67fc83b430bab490e80bf3005bd41cfe773517
+
