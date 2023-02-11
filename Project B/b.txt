@@ -1,3 +1,7 @@
+<<<<<<< HEAD:Project B/b.txt
 This is first line.
 This is second line.
 This is third line.
+=======
+This is first line. 
+>>>>>>> origin:b.txt
